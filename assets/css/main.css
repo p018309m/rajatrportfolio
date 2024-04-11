@@ -117,35 +117,35 @@ input, select, textarea {
 	}
 
 	.game3 {
-		background-image: url("../../images/pic02.jpg"); /* Background image for page 3 */
+		background-image: url("../../images/pic06.jpg"); /* Background image for page 3 */
 	}
 
 	.game4 {
-		background-image: url("../../images/pic02.jpg"); /* Background image for page 4 */
+		background-image: url("../../images/pic11.jpg"); /* Background image for page 4 */
 	}
 
 	.game5 {
-		background-image: url("../../images/pic02.jpg"); /* Background image for page 5 */
+		background-image: url("../../images/pic07.jpg"); /* Background image for page 5 */
 	}
 
 	.game6 {
-		background-image: url("../../images/pic02.jpg"); /* Background image for page 6 */
+		background-image: url("../../images/pic08.jpg"); /* Background image for page 6 */
 	}
 
 	.game7 {
-		background-image: url("../../images/pic02.jpg"); /* Background image for page 7 */
+		background-image: url("../../images/pic12.jpg"); /* Background image for page 7 */
 	}
 
 	.game8 {
-		background-image: url("../../images/pic02.jpg"); /* Background image for page 8 */
+		background-image: url("../../images/pic10.jpg"); /* Background image for page 8 */
 	}
 
 	.game9 {
-		background-image: url("../../images/pic02.jpg"); /* Background image for page 9 */
+		background-image: url("../../images/pic13.jpg"); /* Background image for page 9 */
 	}
 
 	.game10 {
-		background-image: url("../../images/pic02.jpg"); /* Background image for page 10 */
+		background-image: url("../../images/pic09.jpg"); /* Background image for page 10 */
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
