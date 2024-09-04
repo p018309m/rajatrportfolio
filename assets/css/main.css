@@ -151,6 +151,18 @@ input, select, textarea {
 		background-image: url("../../images/pic09.jpg"); /* Background image for page 10 */
 	}
 
+	.game11 {
+		background-image: url("../../images/pic17.jpg"); /* Background image for page 11 */
+	}
+
+	.game12 {
+		background-image: url("../../images/pic15.jpg"); /* Background image for page 12 */
+	}
+
+	.game13 {
+		background-image: url("../../images/pic16.jpg"); /* Background image for page 13 */
+	}
+
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
