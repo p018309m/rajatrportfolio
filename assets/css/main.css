@@ -3713,13 +3713,53 @@ input, select, textarea {
 			text-transform: uppercase;
 		}
 
+		.image-text-image-wrapper {
+			display: flex;
+
+			justify-content: space-between;
+			padding: 1em 1em 1em 1em;
+			margin: 0 auto;
+		}
+		
+		.image-left,
+		.image-right {
+			width: 30%;
+		}
+		
+		.image-left img,
+		.image-right img {
+			width: 100%;
+			max-width: 100%;
+		}
+		
+		.content {
+			width: 60%;
+			text-align: center;
+			padding: 0 10px;
+		}
+		
+		@media screen and (max-width: 768px) {
+			.image-text-image-wrapper {
+				flex-direction: column;
+				text-align: center;
+			}
+			
+			.image-left, .image-right, .content {
+				width: 100%;
+			}
+		
+			.content {
+				padding: 20px 20px;
+			}
+		}
+
 	@media screen and (max-width: 1280px) {
 
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
 			background-color: #2e3141;
 			background-size: auto,
- cover;
+cover;
 			background-position: center,
  0% 30%;
 			margin-bottom: -6.5em;
