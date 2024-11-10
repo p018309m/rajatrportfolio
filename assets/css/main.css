@@ -3834,8 +3834,15 @@ input, select, textarea {
 					#menu .links li a:hover {
 						background: #45558d;
 					}
+					#menu {
+						display: none;
+					}
 
 		@media screen and (max-width: 736px) {
+
+			#menu {
+				display: block;
+			}
 
 			#menu .inner {
 				max-height: 100%;
@@ -3846,7 +3853,25 @@ input, select, textarea {
 				#menu .inner .close {
 					background-size: 1.5em 1.5em;
 				}
+				.top-right-menu {
+					display: none;
+				}
+				.mobile-menu-button {
+					display: block;
+				  }
 
+		}
+
+		@media screen and (min-width: 737px){
+			#menu{
+				display: none;
+			}
+			#top-right-menu{
+				display: block;
+			}
+			.mobile-menu-button {
+				display: none;
+			}
 		}
 
 	body.is-menu-visible #page-wrapper {
