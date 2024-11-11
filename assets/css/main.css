@@ -3874,6 +3874,16 @@ input, select, textarea {
 			}
 		}
 
+	body.home #menu,
+	body.aboutme #menu {
+		display: none;
+	}
+
+	body.home .top-right-menu,
+	body.aboutme .top-right-menu {
+		display: block;
+	}
+
 	body.is-menu-visible #page-wrapper {
 		-moz-filter: blur(1.5px);
 		-webkit-filter: blur(1.5px);
