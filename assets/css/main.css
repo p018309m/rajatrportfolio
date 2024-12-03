@@ -111,56 +111,28 @@ input, select, textarea {
 	.mainpage {
 		background-image: url("../../images/reelbg.gif"); /* Background image for main page */
 	}
-	.game1 {
+	.fpscpp {
 		background-image: url("../../images/pic04.jpg"); /* Background image for game 1 */
 	}
 	
-	.game2 {
-		background-image: url("../../images/pic05.jpg"); /* Background image for page 2 */
+	.forgiveness {
+		background-image: url("../../images/pic06.jpg"); /* Background image for page 2 */
 	}
 
-	.game3 {
-		background-image: url("../../images/pic06.jpg"); /* Background image for page 3 */
+	.guffawing {
+		background-image: url("../../images/pic05.jpg"); /* Background image for page 3 */
 	}
 
-	.game4 {
-		background-image: url("../../images/pic11.jpg"); /* Background image for page 4 */
+	.userinterface {
+		background-image: url("../../images/pic15.jpg"); /* Background image for page 3 */
 	}
 
-	.game5 {
-		background-image: url("../../images/pic07.jpg"); /* Background image for page 5 */
+	.doseofdecay {
+		background-image: url("../../images/pic14.jpg"); /* Background image for page 12 */
 	}
 
-	.game6 {
-		background-image: url("../../images/pic08.jpg"); /* Background image for page 6 */
-	}
-
-	.game7 {
-		background-image: url("../../images/pic12.jpg"); /* Background image for page 7 */
-	}
-
-	.game8 {
-		background-image: url("../../images/pic10.jpg"); /* Background image for page 8 */
-	}
-
-	.game9 {
-		background-image: url("../../images/pic13.jpg"); /* Background image for page 9 */
-	}
-
-	.game10 {
-		background-image: url("../../images/pic09.jpg"); /* Background image for page 10 */
-	}
-
-	.game11 {
-		background-image: url("../../images/pic17.jpg"); /* Background image for page 11 */
-	}
-
-	.game12 {
-		background-image: url("../../images/pic15.jpg"); /* Background image for page 12 */
-	}
-
-	.game13 {
-		background-image: url("../../images/pic16.jpg"); /* Background image for page 13 */
+	.tf2koth {
+		background-image: url("../../images/pic18.jpg"); /* Background image for page 13 */
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
