@@ -3942,6 +3942,18 @@ input, select, textarea {
 		.image-left,
 		.image-right {
 			width: 30%;
+			padding: 1em, 1em, 1em, 1em;
+		}
+
+		.image-leftdoc,
+		.image-rightdoc {
+			width: 35%;
+		}
+
+		.image-leftdoc img,
+		.image-rightdoc img {
+			width: 100%;
+			max-width: 100%;
 		}
 		
 		.image-left img,
@@ -3952,6 +3964,12 @@ input, select, textarea {
 		
 		.content {
 			width: 60%;
+			text-align: center;
+			padding: 0 10px;
+		}
+
+		.contentdoc {
+			width: 100%;
 			text-align: center;
 			padding: 0 10px;
 		}
