@@ -4002,7 +4002,7 @@ input, select, textarea {
 			padding-left: 0;
 		}
 		
-		.left ul, .right li {
+		.left li, .right li {
 			margin-bottom: 5px; /* Add spacing between items */
 			font-size: 18px; /* Adjust font size */
 			line-height: 1.5; /* Improve readability */
@@ -4037,6 +4037,15 @@ input, select, textarea {
 		
 			.content {
 				padding: 20px 20px;
+			}
+
+			.content-container{
+				flex-direction: column;
+				text-align: center;
+			}
+
+			.left, .right{
+				width: 80%;
 			}
 		}
 
