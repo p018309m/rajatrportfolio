@@ -3883,6 +3883,7 @@ input, select, textarea {
 			font-size: 1em;
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
+			text-align: left;
 		}
 
 		#banner p {
