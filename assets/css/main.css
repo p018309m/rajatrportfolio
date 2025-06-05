@@ -114,6 +114,10 @@ input, select, textarea {
 	.fpscpp {
 		background-image: url("../../images/pic04.jpg"); /* Background image for game 1 */
 	}
+
+	.tcb {
+		background-image: url("../../images/pic33.png"); /* Background image for game 14 */
+	}
 	
 	.forgiveness {
 		background-image: url("../../images/pic06.jpg"); /* Background image for page 2 */
